@@ -1,4 +1,42 @@
-+--------------------------------------------------------------------------------------------+
+<!-- Dark Aesthetic Coding Background -->
+<p align="center">
+  <img src="36e0206e-20d9-4f4d-b760-b04efddbd415.png" width="100%" />
+</p>
+
+---
+
+<!-- ASCII Animation with Stars -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="60px">
+</p>
+
+  *           .       *       .       *
+
+    *        *        *       .     *
+
+      🚀 GAURAV’s SPACE 🚀       *
+
+    *        *        *       .     *
+
+              .       *       .       *
+
+
+---
+
+<!-- Typing Effect -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Gaurav+👋;Coder+%7C+Developer+%7C+Learner;Building+KindNest+App+🚀;Competitive+Programming+%F0%9F%92%AA;Always+Learning+New+Things+%F0%9F%8C%9F" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+<!-- Stars moving GIF background -->
+<p align="center">
+  <img src="https://i.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" />
+</p>
+'''+--------------------------------------------------------------------------------------------+
 |                                                                                            |
 |   .        .        *         .              .                 .       .            .      |
 |        '           .      .         .                 .                   .               |
@@ -46,6 +84,6 @@
 |  GitHub   : https://github.com/tendsXgaurav                                                |
 |  LeetCode : https://leetcode.com/u/tendsxgaurav/                                           |
 +--------------------------------------------------------------------------------------------+
-
+'''
 
                                 >> "Dream kills fear so dream on!" <<
