@@ -1,107 +1,103 @@
-<div align="center">
+<!--
+Tip:
+- Name this repo exactly: YOUR_USERNAME
+- Keep this README minimal and visually consistent.
+-->
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDk0NW9pOWY0ZzQyMnM3cnE5aDl2ZWlqemFqZ291a243ZHdya2c3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iFRwD/giphy.gif" width="300" />
-
-  <h1>
-    Hi there! I'm [Your Name] 👋
-  </h1>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Software+Engineer+in+Training;Human-Centered+Designer;Competitive+Programmer;Problem+Solver" alt="Typing SVG" />
-  </a>
-  
-  <p>
-    I design and build things that feel human, one line of code at a time.
-  </p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=[Your-GitHub-Username]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
-  
-</div>
-
----
-
-### 👤 About Me
-
-I'm a **second-year Computer Science student** on a mission to become a Software Engineer. My journey is fueled by a passion for solving complex problems and a deep-seated belief that technology should be intuitive and accessible to everyone.
-
--   🌱 **Currently Learning:** I'm diving deep into **Advanced Data Structures**, exploring **Cloud Native technologies**, and refining my **UI/UX design skills**.
--   🔭 **Working On:** A **full-stack web application** for [describe your project briefly] and consistently practicing on **LeetCode**.
--   💡 **My Philosophy:** Great design is invisible. I strive to create digital experiences that are not just functional but also delightful and feel fundamentally **human**.
-
----
-
-### 💻 My Tech Stack
-
-Here are some of the technologies I'm comfortable with. I'm always eager to learn more!
-
-| **Frontend** | **Backend** | **Databases** | **Languages** | **Tools & Platforms** |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,flask" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /> | <img src="https://skillicons.dev/icons?i=cpp,py,js,java,ts" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman" /> |
-
----
-
-### 📊 GitHub Activity & Stats
-
-This is a summary of my activity and stats on GitHub.
-
+<!-- Hero Banner (dark aesthetic background) -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[Your-GitHub-Username]&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://your-dark-banner-image-url" alt="Dark aesthetic banner" width="100%" />
 </p>
 
+<!-- Arch Linux style GIF -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/2596be/[Your-GitHub-Username]" alt="Contribution Graph" />
+  <img src="https://your-arch-style-gif-url" alt="Arch Linux style terminal animation" height="140" />
+</p>
+
+<!-- Typing effect headline -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=66D9EF&center=true&vCenter=true&multiline=true&width=900&lines=Hi%2C+I'm+YOUR_NAME+%F0%9F%91%8B;CS+Undergrad+(2nd+Year)+%7C+Aspiring+Software+Engineer;I+design+human+feeling+experiences+%26+build+useful+tools." alt="Typing SVG" />
+</p>
+
+<!-- Quick badges (Material-ish minimal style) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web-1F2937?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-0F766E?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/CP-0B132B?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
+
+<!-- Minimal nav -->
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#currently">Currently</a> •
+  <a href="#tech">Tech</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#dsa--cp">DSA/CP</a> •
+  <a href="#design">Design</a> •
+  <a href="#stats">Stats</a> •
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
-### 🚀 Competitive Programming Profiles
+## About
+I’m a 2nd-year B.Tech CSE student who loves building clean, reliable systems and **designing experiences that feel human**. I focus on the essentials: clarity, performance, and craftsmanship.
 
-I believe in sharpening my problem-solving skills through competitive programming.
+- Learning: systems thinking, web dev, DSA, and practical AI/ML
+- Values: minimalism, accessibility, and fast feedback loops
+- Motto: ship small, iterate fast, stay curious
 
+## Currently
+- DSA: LeetCode (daily), Codeforces (contests)
+- Web: full‑stack experiments, API design, auth, testing
+- Design: micro‑interactions, typographic rhythm, color systems
+- AI/ML: practical use-cases, model pipelines, evaluation
+- Linux: Arch rice + dotfiles, terminal workflows
+
+## Tech
+- Languages: TypeScript, Python, C/C++
+- Web: React/Next.js, Node.js, Express, REST/GraphQL
+- Data: PostgreSQL, Prisma/Drizzle, Redis
+- AI/ML: PyTorch/TF, scikit-learn, OpenAI APIs
+- Tools: Arch Linux, Neovim/VS Code, Git, Docker
+
+## Projects
+- Minimal Productivity App — tasks, routines, GitHub‑synced notes
+- CF/LC Helper — CLI + web dashboard for tracking + notes
+- Clean UI Kit — composable components, tokens, motion presets
+
+Explore more in pinned repos below.
+
+## DSA / CP
+- LeetCode: <a href="https://leetcode.com/YOUR_USERNAME">leetcode.com/YOUR_USERNAME</a>
+- Codeforces: <a href="https://codeforces.com/profile/YOUR_HANDLE">codeforces.com/profile/YOUR_HANDLE</a>
+- Notes: patterns, invariants, and proof‑first approach in /notes
+
+## Design
+I care about motion, touch targets, contrast, and readable type. I prototype ideas quickly and test with real users.
+
+- Style: dark, quiet UI, material‑inspired, minimal chrome
+- Tools: Figma, Framer, hand‑rolled CSS systems
+- Gallery: <a href="https://your-portfolio-or-behance-url">portfolio</a>
+
+## Stats
 <p align="center">
-  <a href="https://leetcode.com/[Your-LeetCode-Username]/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116" alt="LeetCode"/>
-  </a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/[Your-Codeforces-Handle]" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150" />
 </p>
 
----
-
-### 📫 Let's Connect
-
-I'm always open to new opportunities and collaborations. Feel free to reach out!
-
 <p align="center">
-  <a href="https://linkedin.com/in/[Your-LinkedIn-Profile-URL]" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/[Your-Twitter-Handle]" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="[Your-Portfolio-URL]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2596be?style=flat&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="mailto:[Your-Email-Address]">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF" height="170" />
 </p>
 
----
+## Contact
+- Email: your.name@email
+- LinkedIn: your‑linkedin
+- Twitter/X: your‑handle
 
-### ✨ Favorite Quote
-
-> "The computer is a bicycle for our minds." - Steve Jobs
-
----
+<!-- Footer: keep it calm, minimal -->
+<p align="center">
+  <sub>Focused on useful tools, human design, and thoughtful engineering.</sub>
+</p>
