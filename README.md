@@ -1,100 +1,75 @@
-<!--
-Repo name: YOUR_USERNAME
-Aesthetic: Dark, minimal, Arch-inspired. Inter font used in images/banners. Text uses semantic italics for calligraphic cadence.
--->
-
-<!-- Hero Banner (rendered in Inter; export 2400x600 PNG/WebP) -->
+<!-- banner arch linux style gif (put your gif URL here, e.g., from Giphy or your own assets) -->
 <p align="center">
-  <img src="https://your-dark-inter-banner-url" alt="Design that feels human — Inter font banner" width="100%" />
+  <img src="YOUR-ARCH-LINUX-STYLE-GIF.gif" alt="arch linux gif" width="600"/>
 </p>
 
-<!-- Arch Linux style GIF (subtle loop) -->
+<!-- typing SVG (change texts as per your profile) -->
 <p align="center">
-  <img src="https://your-arch-style-gif-url" alt="Arch Linux terminal vibe" height="140" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=29C7C9&center=true&width=440&lines=Hi+there+%F0%9F%91%8B+I'm+YourName!;2nd+Year+BTech+CSE+Student;Learning+DSA,+CP%2C+Web+Dev+%2B+Design;Love+Arch+Linux,+AI%2FML%2C+and+Minimal+Designs"
+    alt="Typing SVG" />
 </p>
 
-<!-- Typing effect headline -->
+<!-- dark background - use a wide dark banner or img as bg, decorative but minimal -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=900&color=66D9EF&center=true&vCenter=true&multiline=true&width=900&lines=Hi%2C+I'm+YOUR_NAME+%F0%9F%91%8B;CS+Undergrad+(2nd+Year)+%7C+Aspiring+Software+Engineer;Designing+experiences+that+feel+%3Cem%3Ehuman%3C%2Fem%3E." alt="Typing SVG" />
-</p>
-
-<!-- Minimal material-like badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web-1F2937?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-0F766E?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/CP-0B132B?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#currently">Currently</a> •
-  <a href="#tech">Tech</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#dsa--cp">DSA/CP</a> •
-  <a href="#design">Design</a> •
-  <a href="#stats">Stats</a> •
-  <a href="#contact">Contact</a>
+  <img src="YOUR-DARK-BG-IMAGE-LINK.png" alt="dark aesthetic background" width="80%" style="border-radius: 10px;"/>
 </p>
 
 ---
 
-## About
-I’m a 2nd‑year B.Tech CSE student focused on building clean systems and **designing experiences that feel _human_**. I value clarity, performance, and quiet craftsmanship.
-
-- Learning: systems thinking, web dev, DSA, practical AI/ML  
-- Values: minimalism, accessibility, steady iteration  
-- Motto: ship small, iterate fast, stay _curious_
-
-## Currently
-- DSA: LeetCode (daily), Codeforces (contests)  
-- Web: full‑stack, API design, auth, testing  
-- Design: micro‑interactions, typographic rhythm, color systems  
-- AI/ML: pragmatic pipelines, evaluation  
-- Linux: Arch rice, dotfiles, terminal workflows
-
-## Tech
-- Languages: TypeScript, Python, C/C++  
-- Web: React/Next.js, Node.js, Express, REST/GraphQL  
-- Data: PostgreSQL, Prisma/Drizzle, Redis  
-- AI/ML: PyTorch/TF, scikit‑learn, OpenAI APIs  
-- Tools: Arch Linux, Neovim/VS Code, Git, Docker
-
-## Projects
-- Minimal Productivity App — tasks, routines, GitHub‑synced notes  
-- CF/LC Helper — CLI + web dashboard for tracking + notes  
-- Clean UI Kit — composable components, tokens, motion presets  
-
-Explore more in pinned repos below.
-
-## DSA / CP
-- LeetCode: <a href="https://leetcode.com/YOUR_USERNAME">leetcode.com/YOUR_USERNAME</a>  
-- Codeforces: <a href="https://codeforces.com/profile/YOUR_HANDLE">codeforces.com/profile/YOUR_HANDLE</a>  
-- Notes: patterns, invariants, proof‑first approach in `/notes`
-
-## Design
-I care about motion, contrast, readable type, and **_graceful_** details. I prototype quickly and test with real users.
-
-- Style: dark, quiet UI, material‑inspired, minimal chrome  
-- Tools: Figma, Framer, hand‑rolled CSS systems  
-- Gallery: <a href="https://your-portfolio-or-behance-url">portfolio</a>
-
-## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150" />
-</p>
+<h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF" height="170" />
+Studying Computer Science (BTech, 2nd Year).<br/>
+Designing for humans, not just screens.<br/>
+Currently doing <b>DSA (LeetCode/Codeforces)</b>, web dev, and UI/UX design.<br/>
+Exploring <b>AI/ML</b>, automation, and all things open source.<br/>
+Love tinkering on <b>Arch Linux</b>.<br/>
 </p>
 
-## Contact
-- Email: your.name@email  
-- LinkedIn: your‑linkedin  
-- Twitter/X: your‑handle
+---
+
+<h2 align="center">🛠 My Stack & Tools</h2>
+
+<div align="center">
+  <!-- Material style icons as img, SVG, or badges; replace links with real icons (e.g. shields.io) -->
+  <img src="https://img.shields.io/badge/Linux-333a47?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hyprland-333a47?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML-22223B?style=for-the-badge&logo=python&logoColor=yellow"/>
+</div>
+
+---
+
+<h2 align="center">📈 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" width="98%"/>
+</p>
+
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <sub>Build with <em>care</em>. Learn with <em>patience</em>. Ship with <em>joy</em>.</sub>
+  <!-- update with your social links -->
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-333a47?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
+
+<!-- Minimalist footer -->
+<p align="center" style="color: #B0BEC5; font-size: 12px; font-style:italic;">
+  Designed on <b>Arch Linux</b> | <b>Less is More</b> 🚀
+</p>
+
