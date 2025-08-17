@@ -1,74 +1,86 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D1B2&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Gaurav!+%F0%9F%91%8B;Competitive+Programmer;Full-Stack+Developer;Passionate+Learner" alt="Typing SVG" /></a>
+. 　　　。　　　　•　 　ﾟ　　。 　　.
 
-  <h4>Bridging the gap between logic and user experience through code.</h4>
+　　　.　　　 　　.　　　　　。　　 。　. 　
 
-</div>
+.　　 。　　　　　 ඞ 。 . 　　 • 　　　　•
 
----
+　　ﾟ　　 Gaurav was not The Impostor.　 。　.
 
-### 🚀 Core Mission
+　　'　　　 1 Impostor remains 　 　　。
 
-I am a passionate developer and problem-solver, constantly exploring the intersections of C++, Python, and Web Technologies. My current focus is mastering **Data Structures & Algorithms** to build efficient and scalable solutions. I am actively seeking opportunities in **Open Source** and thrive in competitive programming environments.
+　　ﾟ　　　.　　　. ,　　　　.　 .
 
----
 
-### 💻 My Tech Arsenal
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,react,nodejs,linux,git,github&theme=dark" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-| <a href="https://github.com/tendsXgaurav"><img src="https://github-readme-stats.vercel.app/api?username=tendsXgaurav&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" /></a> | <a href="https://github.com/tendsXgaurav"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tendsXgaurav&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-|---|---|
-
-<a href="https://github.com/tendsXgaurav">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tendsXgaurav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
-
-<a href="https://github.com/tendsXgaurav">
-  <img src="https://github.com/tendsXgaurav/tendsXgaurav/blob/output/github-contribution-grid-snake.svg" alt="snake" style="max-width:100%;">
-</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
----
+##  crewmate's log
 
-### ⚔️ My LeetCode Journey
-
-<div align="center">
-  <a href="https://leetcode.com/u/tendsxgaurav/">
-    <img src="https://leetcard.jacoblin.cool/tendsxgaurav?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats"/>
-  </a>
-</div>
+A **Competitive Programmer** & **Developer** spotted in the wild. Last seen completing tasks in the `C++`, `Python`, and `Web Dev` sectors.
 
 ---
 
-### 🌐 Let's Connect & Collaborate
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tendsxgaurav/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/tendsXgaurav" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://leetcode.com/u/tendsxgaurav/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-</div>
+### 📋 my task list
+- [✅] **Solve LeetCode Challenges:** Sharpening problem-solving skills in MedBay.
+- [✅] **Build Fun Projects:** Calibrating distributors in the Dev Lab.
+- [🔄] **Master DSA:** Currently diverting power to Data Structures & Algorithms.
+- [🔄] **Explore Open Source:** Charting course and inspecting samples in Open Source.
+- [❗] **Find Bugs:** Watch me scan for impostors (bugs) in the code.
 
 <br>
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      ### 📈 Admin map: github stats
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=tendsXgaurav&show_icons=true&theme=radical" alt="My GitHub stats"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tendsXgaurav&layout=compact&theme=radical" alt="Top Langs"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      ### 💻 Vitals: leetcode progress
+      <div align="center">
+        <img src="https://leetcard.jacoblin.cool/tendsxgaurav?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ crewmate's toolkit
+
+| Language | Tools & Frameworks | Systems |
+|---|---|---|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+
+
+---
+
+### 📢 join the lobby
+
+Find me completing tasks or hiding in the vents on these platforms. Let's connect before someone calls an emergency meeting!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tendsxgaurav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-EMERGENCY-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/tendsXgaurav" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-VENT-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://leetcode.com/u/tendsxgaurav/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-SUS-orange?style=for-the-badge&logo=leetcode">
+  </a>
+</p>
+
+---
+
 <div align="center">
-  <p><em>"Dream kills fear, so dream on!" 🚀</em></p>
+  <h4>"Dream kills fear so dream on!" 🚀 ... That's not suspicious at all.</h4>
 </div>
