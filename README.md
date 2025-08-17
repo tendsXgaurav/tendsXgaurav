@@ -1,64 +1,71 @@
-[```
-╔══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                              ║
-║         .　　　　　   　               '              .        +          .
-          .                    * '             .
-          '                |              .                             .
-          .         -*-          '   .                 .
-                     |                                    .
-          .          '   .              .            .        '
-          .                    .          '                        .
-          +      .               .             *
-.                  .      '      .           .         .            ║
-║                                                                                              ║
-║         >> COMPETITIVE PROGRAMMER   //   DEVELOPER   //   PASSIONATE LEARNER <<              ║
-║                                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+╔═════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                         ║
+║         .　　　　　   　               '              .        +          .              ║
+║          .                    * '             .                                         ║
+║          '                |              .                             .                ║
+║          .         -*-          '   .                 .                                 ║
+║                     |                                    .                              ║
+║          .          '   .              .            .        '                          ║
+║          .                    .          '                        .                     ║
+║          +      .               .             *                                         ║
+║.                  .      '      .           .         .            .                    ║
+║                                                                                          ║
+║    >> COMPETITIVE PROGRAMMER   //   DEVELOPER   //   PASSIONATE LEARNER <<              ║
+║                                                                                          ║
+╚═════════════════════════════════════════════════════════════════════════════════════════ ╝
+
+
 
 ╔════════════════════════════════════════[ STATUS REPORT ]══════════════════════════════════════╗
 ║                                                                                              ║
 ║   > CURRENT_FOCUS  : Mastering Data Structures & Algorithms for peak efficiency.             ║
 ║   > EXPLORING      : The vast universe of Open Source & Competitive Programming.             ║
 ║   > CORE_INTERESTS : [ C++, Python, Web Development, Automation ]                            ║
-║   > MOTTO          : Building elegant solutions to complex problems.                         ║
+║   > MOTTO          : "Dream kills fear, so dream on!" 🚀                                     ║
 ║                                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════╝
 
-╔════════════════════════════════════════[ CORE TOOLKIT ]═══════════════════════════════════════╗
-║                                                                                              ║
-║   LANGUAGES:  [ C++ ]  [ Python ]  [ JavaScript ]  [ C ]  [ HTML/CSS ]                        ║
-║                                                                                              ║
-║   TOOLS:      [ Git ]  [ GitHub ]  [ VS Code ]  [ React ]  [ Node.js ]                       ║
-║                                                                                              ║
-║   SYSTEMS:    [ Linux ] [ Windows ]                                                          ║
-║                                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+/ CORE TOOLKIT                               
+      ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white)               
+    ![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)         
+   ![JavaScript](https://img.shields.io/badge/JavaScript-orange?logo=javascript&logoColor=white)
+   
+   ![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)              
+     ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)                 
+   ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)          
+                                                                                           
+╚══════════════════════════════════════════════════════════════════════════════════════════════
+
 
 ╔═════════════════════════════[ DATA STREAM // GITHUB & LEETCODE ]═════════════════════════════╗
 ║                                                                                              ║
-║   NOTE: This data is manually updated. Last sync: August 2025.                               ║
+║   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tendsXgaurav&show_icons=true&theme=tokyonight)   ║
 ║                                                                                              ║
-║   [ GITHUB LANGUAGE DISTRIBUTION ]                                                           ║
+║   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tendsXgaurav&layout=compact&theme=tokyonight) ║
 ║                                                                                              ║
-║      C++       [██████████████░░░░░░░░░░░░░░] 55%                                             ║
-║      Python    [██████████░░░░░░░░░░░░░░░░░] 40%                                             ║
-║      JS/HTML   [███░░░░░░░░░░░░░░░░░░░░░░░] 15%                                             ║
-║                                                                                              ║
-║   [ LEETCODE PROBLEM SOLVED ]                                                                ║
-║                                                                                              ║
-║      EASY      [████████████] 150+                                                           ║
-║      MEDIUM    [████████████████] 200+                                                       ║
-║      HARD      [█████] 50+                                                                   ║
+║   ![LeetCode Stats](https://leetcard.jacoblin.cool/tendsxgaurav?theme=dark&font=Nunito&ext=heatmap)                    ║
 ║                                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════╝
+
+```
+╔═════════════════════════════════════[ FEATURED PROJECTS ]════════════════════════════════════╗
+║                                                                                              ║
+║   🔹 [KindNest](https://github.com/tendsXgaurav/kindnest) – A kindness-driven social app (Kotlin + Firebase).  ║
+║   🔹 [Memory Retention App](https://github.com/tendsXgaurav/memory-retention) – Minimalistic dark-themed memory tracker. ║
+║   🔹 [Fun Learning Roadmap](https://github.com/tendsXgaurav/roadmap) – Interactive roadmap with quizzes (Python).       ║
+║                                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════╝
+
 
 ╔═══════════════════════════════════[ ESTABLISH CONNECTION ]═══════════════════════════════════╗
 ║                                                                                              ║
-║      [in] LinkedIn  -  [ [https://www.linkedin.com/in/tendsxgaurav/](https://www.linkedin.com/in/tendsxgaurav/) ]                          ║
-║      (gh) GitHub    -  [ [https://github.com/tendsXgaurav](https://github.com/tendsXgaurav) ]                                    ║
-║      <lc> LeetCode  -  [ [https://leetcode.com/u/tendsxgaurav/](https://leetcode.com/u/tendsxgaurav/) ]                               ║
+║   [in] LinkedIn  -  [https://www.linkedin.com/in/tendsxgaurav/](https://www.linkedin.com/in/tendsxgaurav/)   ║
+║   (gh) GitHub    -  [https://github.com/tendsXgaurav](https://github.com/tendsXgaurav)                       ║
+║   <lc> LeetCode  -  [https://leetcode.com/u/tendsxgaurav/](https://leetcode.com/u/tendsxgaurav/)             ║
 ║                                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════╝
+```
 
-                 >> "Dream kills fear so dream on!" 🚀 <<
-](https://github.com/tendsXgaurav/tendsXgaurav/blob/main/README.md)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&lines=Competitive+Programmer;Web+Developer;Passionate+Learner;Open+Source+Explorer)](https://git.io/typing-svg)
