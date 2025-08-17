@@ -1,75 +1,74 @@
-<!-- banner arch linux style gif (put your gif URL here, e.g., from Giphy or your own assets) -->
-<p align="center">
-  <img src="YOUR-ARCH-LINUX-STYLE-GIF.gif" alt="arch linux gif" width="600"/>
-</p>
-
-<!-- typing SVG (change texts as per your profile) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=29C7C9&center=true&width=440&lines=Hi+there+%F0%9F%91%8B+I'm+YourName!;2nd+Year+BTech+CSE+Student;Learning+DSA,+CP%2C+Web+Dev+%2B+Design;Love+Arch+Linux,+AI%2FML%2C+and+Minimal+Designs"
-    alt="Typing SVG" />
-</p>
-
-<!-- dark background - use a wide dark banner or img as bg, decorative but minimal -->
-<p align="center">
-  <img src="YOUR-DARK-BG-IMAGE-LINK.png" alt="dark aesthetic background" width="80%" style="border-radius: 10px;"/>
-</p>
-
----
-
-<h2 align="center">👋 About Me</h2>
-
-<p align="center">
-Studying Computer Science (BTech, 2nd Year).<br/>
-Designing for humans, not just screens.<br/>
-Currently doing <b>DSA (LeetCode/Codeforces)</b>, web dev, and UI/UX design.<br/>
-Exploring <b>AI/ML</b>, automation, and all things open source.<br/>
-Love tinkering on <b>Arch Linux</b>.<br/>
-</p>
-
----
-
-<h2 align="center">🛠 My Stack & Tools</h2>
-
 <div align="center">
-  <!-- Material style icons as img, SVG, or badges; replace links with real icons (e.g. shields.io) -->
-  <img src="https://img.shields.io/badge/Linux-333a47?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hyprland-333a47?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%2FML-22223B?style=for-the-badge&logo=python&logoColor=yellow"/>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D1B2&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Gaurav!+%F0%9F%91%8B;Competitive+Programmer;Full-Stack+Developer;Passionate+Learner" alt="Typing SVG" /></a>
+
+  <h4>Bridging the gap between logic and user experience through code.</h4>
+
 </div>
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" width="98%"/>
-</p>
+### 🚀 Core Mission
+
+I am a passionate developer and problem-solver, constantly exploring the intersections of C++, Python, and Web Technologies. My current focus is mastering **Data Structures & Algorithms** to build efficient and scalable solutions. I am actively seeking opportunities in **Open Source** and thrive in competitive programming environments.
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+### 💻 My Tech Arsenal
 
-<p align="center">
-  <!-- update with your social links -->
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-333a47?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,react,nodejs,linux,git,github&theme=dark" />
+  </a>
+</div>
 
-<!-- Minimalist footer -->
-<p align="center" style="color: #B0BEC5; font-size: 12px; font-style:italic;">
-  Designed on <b>Arch Linux</b> | <b>Less is More</b> 🚀
-</p>
+---
 
+### 📊 GitHub Analytics
+
+<div align="center">
+
+| <a href="https://github.com/tendsXgaurav"><img src="https://github-readme-stats.vercel.app/api?username=tendsXgaurav&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" /></a> | <a href="https://github.com/tendsXgaurav"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tendsXgaurav&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+|---|---|
+
+<a href="https://github.com/tendsXgaurav">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tendsXgaurav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<a href="https://github.com/tendsXgaurav">
+  <img src="https://github.com/tendsXgaurav/tendsXgaurav/blob/output/github-contribution-grid-snake.svg" alt="snake" style="max-width:100%;">
+</a>
+
+</div>
+
+---
+
+### ⚔️ My LeetCode Journey
+
+<div align="center">
+  <a href="https://leetcode.com/u/tendsxgaurav/">
+    <img src="https://leetcard.jacoblin.cool/tendsxgaurav?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats"/>
+  </a>
+</div>
+
+---
+
+### 🌐 Let's Connect & Collaborate
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/tendsxgaurav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/tendsXgaurav" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://leetcode.com/u/tendsxgaurav/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <p><em>"Dream kills fear, so dream on!" 🚀</em></p>
+</div>
