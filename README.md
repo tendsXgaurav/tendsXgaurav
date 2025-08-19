@@ -42,11 +42,8 @@
    
 ![LeetCode Stats](https://leetcard.jacoblin.cool/tendsxgaurav?theme=dark&font=Nunito&ext=heatmap)             
                
-═════════════════════════════════════════════════════════════════
-
-                                                               
-  [in] LinkedIn  -  [https://www.linkedin.com/in/tendsxgaurav/](https://www.linkedin.com/in/tendsxgaurav/)   
-  (gh) GitHub    -  [https://github.com/tendsXgaurav](https://github.com/tendsXgaurav)                      <lc>         LeetCode  -  [https://leetcode.com/u/tendsxgaurav/](https://leetcode.com/u/tendsxgaurav/)            
-                                                                  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&lines=Competitive+Programmer;Web+Developer;Passionate+Learner;Open+Source+Explorer)](https://git.io/typing-svg)
+
+
+
