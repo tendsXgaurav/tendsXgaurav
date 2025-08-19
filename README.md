@@ -36,36 +36,17 @@
      ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)                 
    ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)          
                                                                                            
-╚══════════════════════════════════════════════════════════════════════════════════════════════
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tendsXgaurav&show_icons=true&theme=tokyonight)   
+                                                                                  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tendsXgaurav&layout=compact&theme=tokyonight) 
+   
+![LeetCode Stats](https://leetcard.jacoblin.cool/tendsxgaurav?theme=dark&font=Nunito&ext=heatmap)             
+               
+═════════════════════════════════════════════════════════════════
 
-
-╔═════════════════════════════[ DATA STREAM // GITHUB & LEETCODE ]═════════════════════════════╗
-║                                                                                              ║
-║   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tendsXgaurav&show_icons=true&theme=tokyonight)   ║
-║                                                                                              ║
-║   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tendsXgaurav&layout=compact&theme=tokyonight) ║
-║                                                                                              ║
-║   ![LeetCode Stats](https://leetcard.jacoblin.cool/tendsxgaurav?theme=dark&font=Nunito&ext=heatmap)                    ║
-║                                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════════════════════╝
-
-```
-╔═════════════════════════════════════[ FEATURED PROJECTS ]════════════════════════════════════╗
-║                                                                                              ║
-║   🔹 [KindNest](https://github.com/tendsXgaurav/kindnest) – A kindness-driven social app (Kotlin + Firebase).  ║
-║   🔹 [Memory Retention App](https://github.com/tendsXgaurav/memory-retention) – Minimalistic dark-themed memory tracker. ║
-║   🔹 [Fun Learning Roadmap](https://github.com/tendsXgaurav/roadmap) – Interactive roadmap with quizzes (Python).       ║
-║                                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════════════════════╝
-
-
-╔═══════════════════════════════════[ ESTABLISH CONNECTION ]═══════════════════════════════════╗
-║                                                                                              ║
-║   [in] LinkedIn  -  [https://www.linkedin.com/in/tendsxgaurav/](https://www.linkedin.com/in/tendsxgaurav/)   ║
-║   (gh) GitHub    -  [https://github.com/tendsXgaurav](https://github.com/tendsXgaurav)                       ║
-║   <lc> LeetCode  -  [https://leetcode.com/u/tendsxgaurav/](https://leetcode.com/u/tendsxgaurav/)             ║
-║                                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════════════════════╝
-```
+                                                               
+  [in] LinkedIn  -  [https://www.linkedin.com/in/tendsxgaurav/](https://www.linkedin.com/in/tendsxgaurav/)   
+  (gh) GitHub    -  [https://github.com/tendsXgaurav](https://github.com/tendsXgaurav)                      <lc>         LeetCode  -  [https://leetcode.com/u/tendsxgaurav/](https://leetcode.com/u/tendsxgaurav/)            
+                                                                  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&lines=Competitive+Programmer;Web+Developer;Passionate+Learner;Open+Source+Explorer)](https://git.io/typing-svg)
